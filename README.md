@@ -2,6 +2,5 @@ Hi, I’m @pickaxe828, I’m interested in coding, gaming (Minecraft/ Satisfacto
 
 I’m currently learning JavaScript/ Python.
 
-My current projects is: [Discord Stories](https://github.com/pickaxe828/Discord-Stories)
-
+My current projects is: ...
 You could reach me on Discord (Pickaxe828#4395) and Reddit (u/Pickaxe828)!
